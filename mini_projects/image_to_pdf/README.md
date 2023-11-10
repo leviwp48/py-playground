@@ -1,10 +1,10 @@
 # Image to PDF 
 
 ## Features
-Converts 
+Converts a JPEG image to a PDF as a new file
 
 ## Run
-To run simply run the stopwatch.py file with 
-`python stopwatch.py` or `python3 stopwatch.py`
+Simply run the file with the command:
+`python image_to_pdf.py` or `python3 image_to_pdf.py`
 
 
