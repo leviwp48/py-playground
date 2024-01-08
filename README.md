@@ -1,6 +1,6 @@
 # Py-Playground
 
-Welcome to Py-Playground! 🚀 This repository contains various small Python projects, providing a playground for learning and experimenting.
+Welcome to my Py-Playground! 🚀 This repository contains various small Python projects, providing a playground for learning and experimenting.
 
 ## Table of Contents
 
